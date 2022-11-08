@@ -1,0 +1,11 @@
+/API.spec
+/build
+/data_api
+/dist
+/geckodriver.log
+/imbprocess.py
+/main.exe
+/main.spec
+/TORVIEW.exe
+/WEB.spec
+/__pycache__
